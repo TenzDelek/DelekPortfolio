@@ -42,7 +42,7 @@ const Intro = () => {
       I did my schooling from<span className="tcv">logo</span> 
       Till 12th.
       then i join <span className="vit">vit</span> for my bachelor degree. I love <span className="pic"><img src="./pic.png"/></span>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; and<span> art</span> apart from that &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I do 3d for fun. I am based in <span className="moun">Northe</span>India
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; and<span className="art"> art</span> apart from that &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I do 3d for fun. I am based in <span className="moun">Northe</span>India
      </div>
        </div>
        </div>

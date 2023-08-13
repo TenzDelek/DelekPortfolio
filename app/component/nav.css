@@ -47,8 +47,13 @@
 }
 .ma div:hover {
   color: #cfcfcf;
+  scale: 0.9;
+}
+.ma div{
+  transition: all 0.3s ease-in-out;
 }
 .ma {
+  
   height: 3.5rem;
   font-size: 15px;
   font-weight: 500;
@@ -78,7 +83,7 @@ cursor: pointer;
 @media (max-width:40rem) {
   .ma div {
     background-color: #ffffff;
-    padding: 10px 15px;
+    padding: 5px 10px;
     border-radius: 2rem;
     font-size: 10px;
   }
